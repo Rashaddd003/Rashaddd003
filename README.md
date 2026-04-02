@@ -9,7 +9,7 @@ I am a Communications and Information Engineering student at Zewail City of Scie
 ### 🔭 What I'm Up To
 
 * **I’m currently working on:** Cognitive Network Solutions as a Data Science Intern at **Ericsson**, and building an AI-powered hospital staff assistant robot using **ROS 2** for my graduation project.
-* **🌱 I’m currently diving deep into:** Deep Generative Models (GANs, VAEs, Diffusion) and Large Language Models (LLMs).
+* **🌱 I’m currently diving deep into:** Deep Generative Models (GANs, VAEs, Diffusion), agent-based systems, and Large Language Models (LLMs).
 * **👯 I’m looking to collaborate on:** Open-source AI projects, autonomous robotics, and GenAI applications.
 * **💻 Previously:** Developed an LLM chatbot and image generation VSCode extension as a Software Engineering Intern (NLP & Generative AI) at **Valeo**.
 
